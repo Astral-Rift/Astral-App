@@ -7,10 +7,10 @@
       "zone_id": "[CENSURADO — Disponible en Cloudflare Dashboard > tu dominio > Overview]",
       "subdomains": [
         { "name": "",      "proxied": false },
-        { "name": "tfg",   "proxied": false },
-        { "name": "panel", "proxied": false },
-        { "name": "cloud", "proxied": false },
-        { "name": "wiki",  "proxied": false }
+        { "name": "prueba",   "proxied": false },
+        { "name": "prueba", "proxied": false },
+        { "name": "prueba", "proxied": false },
+        { "name": "prueba",  "proxied": false }
       ]
     }
   ],
